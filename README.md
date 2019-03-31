@@ -15,4 +15,4 @@
 - [ ] Java 8 in Action
 - [ ] 图解 Java 并发编程
 - [ ] 程序员的数学
-- [ ] 黑客与画家
+- [ ] [黑客与画家](https://github.com/N0nb0at/N0nb0at.github.io/blob/dev/read/HackersAndPainters.md)
