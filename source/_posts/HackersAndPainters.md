@@ -1,6 +1,19 @@
-# Hackers and Painters
+---
+title: 黑客与画家 - 摘录
+date: 2019/03/26 20:00:00
+updated: 2019/04/07 23:00:00
+categories: 
+  - [read]
+tags: 
+  - [read]
+  - [classics]
+---
 
 文档内将会包含三部分内容，一部分是书籍内个人比较喜欢的段落摘抄，一部分记录书内提及的文章用以扩展阅读，还有一部分读后感。
+
+<!-- more -->
+
+# Hackers and Painters
 
 ## About Paul Graham
 
