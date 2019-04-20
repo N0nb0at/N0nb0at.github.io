@@ -1,6 +1,8 @@
-`start again` 重新出发
-
 ---
+layout: drafts
+---
+
+`start again` 重新出发
 
 ## 关于本项目
 
