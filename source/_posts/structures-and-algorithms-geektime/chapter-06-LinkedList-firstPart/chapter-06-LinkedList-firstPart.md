@@ -1,6 +1,6 @@
 ---
 title: 数据结构与算法-06-链表（上）：如何实现LRU缓存淘汰算法?
-date: 2019-04-18 21:59:34
+date: 2019/04/18 21:59:34
 categories:
   - [Structures & Algorithms]
 tags:
@@ -13,6 +13,8 @@ tags:
 缓存是一种提高数据读取性能的技术，在硬件设计、软件开发中都有着非常广泛的应用，比如常见的 CPU 缓存、数据库缓存、浏览器缓存。
 
 缓存的大小有限，当缓存被用满时，哪些数据应该被清理，哪些数据应该被保留，这就需要缓存淘汰策略来决定。常见的策略有三种：**先入先出策略 FIFO（First In, First Out）**、最少使用策略 LFU（Least Frequently Used）、最近最少使用策略 LRU（Least Recently Used）。
+
+<!-- more -->
 
 ## 五花八门的链表结构
 
