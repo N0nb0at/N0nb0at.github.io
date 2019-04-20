@@ -9,7 +9,7 @@ description:
 keywords:
 author: N0nb0at
 language: zh-Hans
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -84,5 +84,5 @@ deploy:
     repo: git@github.com:N0nb0at/N0nb0at.github.io.git
     branch: master
   - type: git
-    repository: git@45.76.100.114:/var/repo/hexo_static.git
+    repository: root@45.76.100.114:/var/repo/hexo_static.git
     branch: master
