@@ -6,6 +6,7 @@ categories:
 tags:
   - [Structures & Algorithms]
   - [Stack]
+  - [geektime]
 ---
 
 ## 如何实现随机访问

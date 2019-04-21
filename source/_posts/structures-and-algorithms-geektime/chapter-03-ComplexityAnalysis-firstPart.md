@@ -6,11 +6,12 @@ categories:
 tags:
   - [Structures & Algorithms]
   - [Stack]
+  - [geektime]
 ---
 
-复杂度分析是整个算法学习的精髓，只要掌握了它，数据结构和算法的内容基本上就掌握了一半。
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- more -->
+复杂度分析是整个算法学习的精髓，只要掌握了它，数据结构和算法的内容基本上就掌握了一半。
 
 ## 为什么需要复杂度分析？
 

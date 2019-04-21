@@ -6,6 +6,7 @@ categories:
 tags:
   - [Structures & Algorithms]
   - [Queue]
+  - [geektime]
 ---
 
 ## 如何理解『队列』

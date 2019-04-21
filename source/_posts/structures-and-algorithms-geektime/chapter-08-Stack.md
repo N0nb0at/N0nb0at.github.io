@@ -6,6 +6,7 @@ categories:
 tags:
   - [Structures & Algorithms]
   - [Stack]
+  - [geektime]
 ---
 
 ## 如何理解栈

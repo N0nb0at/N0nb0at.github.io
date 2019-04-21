@@ -6,6 +6,7 @@ categories:
 tags:
   - [Structures & Algorithms]
   - [Stack]
+  - [geektime]
 ---
 
 ## 最好、最坏情况时间复杂度 best|worst case time complexity
@@ -13,8 +14,6 @@ tags:
 最好情况时间复杂度就是，在最理想的情况下，执行这段代码的时间复杂度。
 
 最坏情况时间复杂度就是，在最糟糕的情况下，执行这段代码的时间复杂度。
-
-<!-- more -->
 
 ## 平均情况时间复杂度 average case time complexity
 

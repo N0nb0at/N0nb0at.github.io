@@ -6,6 +6,7 @@ categories:
 tags:
   - [Structures & Algorithms]
   - [Stack]
+  - [geektime]
 ---
 
 ## 几个写链表代码的技巧
