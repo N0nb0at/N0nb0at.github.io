@@ -12,6 +12,8 @@ layout: drafts
 
 ## 学习计划
 
+![学习计划-MindMap](learning-plan.png)
+
 ### 书籍
 - [ ] 图解设计模式
 - [ ] Java 8 in Action
