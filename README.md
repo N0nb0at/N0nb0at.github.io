@@ -18,7 +18,7 @@ layout: drafts
 
 - [ ] [图解设计模式](https://github.com/N0nb0at/design-pattern)
   - [第一章：Iterator 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_01_iterator)
-  - [第二章：Adapter 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_01_adapter)
+  - [第二章：Adapter 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_02_adapter)
 - [ ] Java 8 in Action
 - [ ] 图解 Java 并发编程
 - [ ] 程序员的数学 ![程序员的数学](programmer's-math.png)
