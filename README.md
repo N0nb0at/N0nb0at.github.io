@@ -22,7 +22,6 @@ layout: drafts
   - [第三章：Template Method 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_03_template_method)
   - [第四章：Factory Method 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_04_factory_method)
 
-
 - [ ] Java 8 in Action
 - [ ] 图解 Java 并发编程
 - [ ] 程序员的数学 ![程序员的数学](programmer's-math.png)
