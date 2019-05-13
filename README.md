@@ -21,6 +21,9 @@ layout: drafts
   - [第二章：Adapter 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_02_adapter)
   - [第三章：Template Method 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_03_template_method)
   - [第四章：Factory Method 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_04_factory_method)
+  - [第五章：Singleton 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_05_singleton)
+  - [第六章：Prototype 模式](https://github.com/N0nb0at/design-pattern/tree/dev/src/main/java/cn/n0nb0at/designpattern/chapter_06_prototype)
+
 
 - [ ] Java 8 in Action
 - [ ] 图解 Java 并发编程
